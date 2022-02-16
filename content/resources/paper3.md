@@ -1,8 +1,13 @@
 ---
 content_type: resource
 description: 'Third paper: topics'
-file: /media/https%3A/open-learning-course-data-rc.s3.amazonaws.com/21h-311-the-renaissance-1300-1600-fall-2004/0cae05b1d55cb016cf567e588d655f5b_paper3.pdf
+file: /media/courses/21h-311-the-renaissance-1300-1600-fall-2004/0cae05b1d55cb016cf567e588d655f5b_paper3.pdf
 file_type: application/pdf
+learning_resource_types:
+- Assignments
+ocw_type: OCWFile
+parent_title: Assignments
+parent_type: CourseSection
 resourcetype: Document
 title: paper3.pdf
 uid: 0cae05b1-d55c-b016-cf56-7e588d655f5b
