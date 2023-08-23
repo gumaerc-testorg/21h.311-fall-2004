@@ -1,5 +1,7 @@
 ---
 content_type: page
+description: This section contains the topics and examination details which would
+  be covered during the course.
 learning_resource_types: []
 ocw_type: CourseSection
 title: Calendar
