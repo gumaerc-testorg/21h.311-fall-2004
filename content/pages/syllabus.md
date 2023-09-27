@@ -1,5 +1,7 @@
 ---
 content_type: page
+description: This section consists of the outline of the course and the assessment
+  information.
 learning_resource_types: []
 ocw_type: CourseSection
 title: Syllabus
@@ -16,13 +18,13 @@ Syllabus Archive
 
 The following syllabi come from a variety of different terms. They illustrate the evolution of this course over time, and are intended to provide alternate views into the instruction of this course.
 
-> Fall 2008, Jeffrey Ravel ([PDF]({{< baseurl >}}/resources/mit21h_311f04_syllf08))
+> Fall 2008, Jeffrey Ravel ({{% resource_link acabe2a4-1468-50f6-7a9e-b50540d5a228 "PDF" %}})
 > 
-> Spring 2007, Jeffrey Ravel ([PDF]({{< baseurl >}}/resources/mit21h_311f04_sylls07))
+> Spring 2007, Jeffrey Ravel ({{% resource_link b88d1590-9e4c-bde5-71bd-ff76023da6eb "PDF" %}})
 > 
-> Fall 2004, Jeffrey Ravel ([PDF]({{< baseurl >}}/resources/mit21h_311f04_syllf04))
+> Fall 2004, Jeffrey Ravel ({{% resource_link 0f4a2f8d-ccf0-0292-1591-1c6a8b10c013 "PDF" %}})
 > 
-> Fall 2000, Jeffrey Ravel ([PDF]({{< baseurl >}}/resources/mit21h_311f04_syllf00))
+> Fall 2000, Jeffrey Ravel ({{% resource_link 892c7147-37e2-06d8-b72f-d1f62f9b7486 "PDF" %}})
 
 Subject Description
 -------------------
