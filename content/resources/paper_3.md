@@ -2,6 +2,7 @@
 content_type: resource
 description: Requirements and topics for essay assignment.
 file: /courses/21h-311-the-renaissance-1300-1600-fall-2004/0a8c8d97acfb84b7bb66ac94c31bbafa_paper_3.pdf
+file_size: 13024
 file_type: application/pdf
 learning_resource_types:
 - Assignments
