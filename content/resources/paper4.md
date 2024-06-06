@@ -2,6 +2,7 @@
 content_type: resource
 description: 'Fourth Paper: Topics'
 file: /courses/21h-311-the-renaissance-1300-1600-fall-2004/7eb4a2de70b68d554c54736b4ccceca6_paper4.pdf
+file_size: 89826
 file_type: application/pdf
 learning_resource_types:
 - Assignments
