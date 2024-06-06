@@ -2,6 +2,7 @@
 content_type: resource
 description: Instructions and topics for essay assignment on Machiavelli.
 file: /courses/21h-311-the-renaissance-1300-1600-fall-2004/63b71bf9cbfd23f0f0a33065a2c95c68_paper_5.pdf
+file_size: 10692
 file_type: application/pdf
 learning_resource_types:
 - Assignments

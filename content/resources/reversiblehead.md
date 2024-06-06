@@ -4,6 +4,7 @@ description: The woodcut reproduced below circulated in print in the 1520s. The 
   on the top is that of a Cardinal in the Catholic church; that on the bottom represents
   a fool.
 file: /courses/21h-311-the-renaissance-1300-1600-fall-2004/52052976c24d0674d4cfe5b4baf7f61d_reversiblehead.jpg
+file_size: 30100
 file_type: image/jpeg
 image_metadata:
   caption: ''
