@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: Instructions and topics for essay assignment.
-file: /courses/21h-311-the-renaissance-1300-1600-fall-2004/b7cde8a8674ea01ed7ca7ac2067cca36_paper_1.pdf
+file: /ol-ocw-studio-app/courses/21h-311-the-renaissance-1300-1600-fall-2004/b7cde8a8674ea01ed7ca7ac2067cca36_paper_1.pdf
 file_size: 10166
 file_type: application/pdf
 learning_resource_types:
