@@ -2,7 +2,7 @@
 content_type: resource
 description: This resource contains information about subject requirements, required
   readings and class meetings and readings assignments.
-file: /courses/21h-311-the-renaissance-1300-1600-fall-2004/b88d15909e4cbde571bdff76023da6eb_MIT21H_311f04_sylls07.pdf
+file: /ol-ocw-studio-app/courses/21h-311-the-renaissance-1300-1600-fall-2004/b88d15909e4cbde571bdff76023da6eb_MIT21H_311f04_sylls07.pdf
 file_size: 60719
 file_type: application/pdf
 learning_resource_types: []

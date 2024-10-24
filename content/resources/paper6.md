@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: 'Sixth Paper: Topics'
-file: /courses/21h-311-the-renaissance-1300-1600-fall-2004/1173c02b6b448b3caa66ee12359ced00_paper6.pdf
+file: /ol-ocw-studio-app/courses/21h-311-the-renaissance-1300-1600-fall-2004/1173c02b6b448b3caa66ee12359ced00_paper6.pdf
 file_size: 67361
 file_type: application/pdf
 learning_resource_types:
