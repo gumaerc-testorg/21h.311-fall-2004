@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: Ordinance of Laborers, 1349
-file: /ol-ocw-studio-app/courses/21h-311-the-renaissance-1300-1600-fall-2004/be2387bbaa5b337632fc498f67d91b2f_ordinance.pdf
+file: /courses/21h-311-the-renaissance-1300-1600-fall-2004/be2387bbaa5b337632fc498f67d91b2f_ordinance.pdf
 file_size: 73733
 file_type: application/pdf
 learning_resource_types:

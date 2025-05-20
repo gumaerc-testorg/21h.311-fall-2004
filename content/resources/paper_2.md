@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: Requirements and topics for essay assignment.
-file: /ol-ocw-studio-app/courses/21h-311-the-renaissance-1300-1600-fall-2004/117b396dc61a91e2610491ddafa92532_paper_2.pdf
+file: /courses/21h-311-the-renaissance-1300-1600-fall-2004/117b396dc61a91e2610491ddafa92532_paper_2.pdf
 file_size: 10311
 file_type: application/pdf
 learning_resource_types:

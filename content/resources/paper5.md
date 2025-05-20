@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: 'Fifth paper: topics'
-file: /ol-ocw-studio-app/courses/21h-311-the-renaissance-1300-1600-fall-2004/c1d39e1b46b39c3f0491fe72a49e5f55_paper5.pdf
+file: /courses/21h-311-the-renaissance-1300-1600-fall-2004/c1d39e1b46b39c3f0491fe72a49e5f55_paper5.pdf
 file_size: 54507
 file_type: application/pdf
 learning_resource_types:

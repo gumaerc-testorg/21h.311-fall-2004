@@ -2,7 +2,7 @@
 content_type: resource
 description: Requirements and topics for essay assignment on the "Panegyric to the
   City of Florence."
-file: /ol-ocw-studio-app/courses/21h-311-the-renaissance-1300-1600-fall-2004/12682930aa0e93d9ac991c6b33006128_paper_4.pdf
+file: /courses/21h-311-the-renaissance-1300-1600-fall-2004/12682930aa0e93d9ac991c6b33006128_paper_4.pdf
 file_size: 10746
 file_type: application/pdf
 learning_resource_types:
