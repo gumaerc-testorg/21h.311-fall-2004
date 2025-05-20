@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: 'Black Death: Requirements and Topic'
-file: /ol-ocw-studio-app/courses/21h-311-the-renaissance-1300-1600-fall-2004/f61945e62c0940f5a6a9adc550889a6b_paper2.pdf
+file: /courses/21h-311-the-renaissance-1300-1600-fall-2004/f61945e62c0940f5a6a9adc550889a6b_paper2.pdf
 file_size: 68455
 file_type: application/pdf
 learning_resource_types:
