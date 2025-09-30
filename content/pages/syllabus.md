@@ -111,5 +111,5 @@ Statement on Cheating and Plagiarism
 
 The web now hosts many sites which offer college-level papers of varying quality on a variety of topics. I am well acquainted with these sites, and with others that offer detection services to professors. Buying a paper and submitting it as your own work is cheating. Copying sections from someone else's print or online work into your own without an acknowledgement is plagiarism. MIT has strict policies against both activities that I will enforce. For the appropriate MIT definitions and policies, visit the following Web sites. If you are uncertain about what constitutes cheating or plagiarism, please contact me before submitting the work in question.
 
-*   [MIT Online Writing and Communication Center](http://web.mit.edu/writing)
-*   [Plagiarism and How to Avoid It](http://cmsw.mit.edu/writing-and-communication-center/avoiding-plagiarism/) (Be sure to check out the links to sites at the University of Toronto and Texas A & M.)
+*   {{% resource_link "bba35bea-a15c-4b65-a8ff-dc27620aaf17" "MIT Online Writing and Communication Center" %}}
+*   {{% resource_link "ce39b484-fbdd-407e-80bd-cb60a3fd20f8" "Plagiarism and How to Avoid It" %}} (Be sure to check out the links to sites at the University of Toronto and Texas A & M.)
