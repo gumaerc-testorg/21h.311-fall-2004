@@ -21,7 +21,7 @@ Leroy-Ladurie, Emmanuel. _Montaillou: The Promised Land of Error_. New York, NY:
 Petrarch, Francesco. _The Secret_. Edited by Carol Quillen. Boston, MA: Bedford/Saint Martin's, 2003. ISBN: 9780312154387.
 
 Machiavelli, Niccolo. _The Prince_. Oxford, New York, NY: Oxford University Press, 2005. ISBN: 9780192804266.   
-A version of this text is available through {{% resource_link "3ca16e2d-6db8-4673-bfa7-479cca75a405" "Project Gutenberg" %}}.
+A version of this text is available through [Project Gutenberg](http://www.gutenberg.org/).
 
 Davis, N. Z. _The Return of Martin Guerre_. Cambridge, MA: Harvard University Press, 1983. ISBN: 9780674766907.
 
